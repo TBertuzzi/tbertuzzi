@@ -26,10 +26,26 @@
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
 </a>
 
-<a href="https://medium.com/@bertuzzi" target="_blank">
-	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
+<a href="https://devshow.com.br/" target="_blank">
+	<img src="https://img.shields.io/badge/devshowpodcast-blue?&style=flat-square&logo=itunes&logoColor=white" alt="devshow">
 </a>
+
+<a href="https://www.youtube.com/canaldotnet" target="_blank">
+	<img src="https://img.shields.io/badge/canalnet-red?&style=flat-square&logo=youtube&logoColor=white" alt="canaldotnet">
+</a>
+
+<a href="https://www.youtube.com/thiagobertuzzi" target="_blank">
+	<img src="https://img.shields.io/badge/thiagobertuzzi-red?&style=flat-square&logo=youtube&logoColor=white" alt="thiagobertuzzi">
+</a>
+
+<a href="https://www.youtube.com/thiagobertuzzi" target="_blank">
+	<img src="https://img.shields.io/badge/tbertuzzi-purple?&style=flat-square&logo=twitch&logoColor=white" alt="thiagobertuzzi">
+</a>
+
+
 </div>
 <br/>
+
+
 
 
