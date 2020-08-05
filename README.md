@@ -3,7 +3,7 @@
 * Sou é desenvolvedor .net há 13 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
 * Líder técnico / Arquiteto Mobile e .Net na [NESS](https://www.ness.com.br/)
-* Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes Nuget.
+* Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes [Nuget](https://www.nuget.org/profiles/Bertuzzi).
 
 
 <div align="center">
