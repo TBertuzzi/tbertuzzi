@@ -30,6 +30,10 @@
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
 
+<a href="https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi" target="_blank">
+	<img src="https://img.shields.io/badge/MVP-blue?&style=flat-square&logo=microsoft&logoColor=white" alt="mvp">
+</a>
+
 <a href="https://devshow.com.br/" target="_blank">
 	<img src="https://img.shields.io/badge/devshowpodcast-blue?&style=flat-square&logo=itunes&logoColor=white" alt="devshow">
 </a>
