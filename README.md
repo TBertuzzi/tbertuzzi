@@ -1,8 +1,8 @@
 ### Fala galera!, Eu sou [Thiago Bertuzzi!](https://bertuzzi.com.br) 👋
 
 * Sou é desenvolvedor .net há 13 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
-* Microsoft MVP em Developer Technologies
-* Líder técnico / Arquiteto Mobile e .Net na NESS
+* [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
+* Líder técnico / Arquiteto Mobile e .Net na [NESS](https://www.ness.com.br/)
 * Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes Nuget.
 
 
@@ -28,10 +28,6 @@
 
 <a href="https://medium.com/@bertuzzi" target="_blank">
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
-</a>
-
-<a href="https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi" target="_blank">
-	<img src="https://img.shields.io/badge/MVP-blue?&style=flat-square&logo=microsoft&logoColor=white" alt="mvp">
 </a>
 
 <a href="https://devshow.com.br/" target="_blank">
