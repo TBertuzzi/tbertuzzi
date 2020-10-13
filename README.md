@@ -45,7 +45,7 @@
 	<img src="https://img.shields.io/badge/thiagobertuzzi-red?&style=flat-square&logo=youtube&logoColor=white" alt="thiagobertuzzi">
 </a>
 
-<a href="https://www.youtube.com/thiagobertuzzi" target="_blank">
+<a href="https://www.twitch.tv/tbertuzzi" target="_blank">
 	<img src="https://img.shields.io/badge/tbertuzzi-purple?&style=flat-square&logo=twitch&logoColor=white" alt="thiagobertuzzi">
 </a>
 
