@@ -2,7 +2,7 @@
 
 * Sou é desenvolvedor .net há 13 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
-* Líder técnico / Arquiteto Mobile e .Net na [NESS](https://www.ness.com.br/)
+* Head of Technology [NESS](https://www.ness.com.br/) Energy
 * Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes [Nuget](https://www.nuget.org/profiles/Bertuzzi).
 * Um dos Organizadores dos Meetups [.NET São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/) , [Azure Talks](https://www.meetup.com/pt-BR/azure-talks/) e [SampaDevs](https://www.meetup.com/pt-BR/SampaDevs/)
 * Um dos Organizadores do [DevShow Podcast](https://devshow.com.br/) e [Canal .Net](https://www.youtube.com/canaldotnet)
