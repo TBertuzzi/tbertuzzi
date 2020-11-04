@@ -13,6 +13,10 @@
 
 <i>Se quiser falar comigo ou saber mais => Você me encontra nas redes sociais:</i><br>
 
+<a href="https://mvp.microsoft.com/pt-br/mvp/Thiago%20Bertuzzi-5003242" target="_blank">
+	<img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
+</a>
+
 <a href="https://www.linkedin.com/in/thiago-bertuzzi-74ab2a21/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -34,7 +38,7 @@
 </a>
 
 <a href="https://devshow.com.br/" target="_blank">
-	<img src="https://img.shields.io/badge/devshowpodcast-blue?&style=flat-square&logo=itunes&logoColor=white" alt="devshow">
+	<img src="https://img.shields.io/badge/-DevShow%C2%A0Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
 </a>
 
 <a href="https://www.youtube.com/canaldotnet" target="_blank">
