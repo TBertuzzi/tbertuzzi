@@ -1,6 +1,6 @@
 ### Fala galera!, Eu sou [Thiago Bertuzzi!](https://bertuzzi.com.br) 👋
 
-* Sou é desenvolvedor .net há 13 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
+* Sou desenvolvedor .net há 13 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
 * Head of Technology na [NESS](https://www.ness.com.br/) Energy
 * Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes [Nuget](https://www.nuget.org/profiles/Bertuzzi).
