@@ -6,6 +6,7 @@
 * Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes [Nuget](https://www.nuget.org/profiles/Bertuzzi).
 * Um dos Organizadores dos Meetups [.NET São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/) , [Azure Talks](https://www.meetup.com/pt-BR/azure-talks/) e [SampaDevs](https://www.meetup.com/pt-BR/SampaDevs/)
 * Um dos Organizadores do [DevShow Podcast](https://devshow.com.br/) e [Canal .Net](https://www.youtube.com/canaldotnet)
+* Organizador e Host do [It's-a Me Podcast](https://anchor.fm/thiago-bertuzzi)
 
 
 
