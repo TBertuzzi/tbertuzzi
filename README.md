@@ -37,6 +37,10 @@
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
 
+<a href="https://anchor.fm/thiago-bertuzzi/" target="_blank">
+	<img src="https://img.shields.io/badge/It's--a%20Me%20Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
+</a>
+
 <a href="https://devshow.com.br/" target="_blank">
 	<img src="https://img.shields.io/badge/-DevShow%C2%A0Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
 </a>
