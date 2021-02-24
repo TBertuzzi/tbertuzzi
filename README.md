@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://devshow.com.br/" target="_blank">
-	<img src="https://img.shields.io/badge/-DevShow%C2%A0Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
+	<img src="https://img.shields.io/badge/-DevShow&nbsp;Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
 </a>
 
 <a href="https://www.youtube.com/canaldotnet" target="_blank">
