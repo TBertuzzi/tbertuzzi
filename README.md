@@ -62,6 +62,10 @@
 </div>
 <br/>
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbertuzzi&show_icons=true)
-
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbertuzzi&show_icons=true&count_private=true&theme=algolia" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbertuzzi&layout=compact&theme=algolia" />
+</p>
 
