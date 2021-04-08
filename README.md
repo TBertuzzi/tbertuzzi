@@ -1,4 +1,4 @@
-### Fala galera!, Eu sou [Thiago Bertuzzi!](https://bertuzzi.com.br) 👋
+### Fala galera! Eu sou [Thiago Bertuzzi!](https://bertuzzi.com.br) 👋
 
 * Sou desenvolvedor .net há 14 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
