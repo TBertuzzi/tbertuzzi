@@ -1,4 +1,4 @@
-### Fala galera! Eu sou [Thiago Bertuzzi!](https://bertuzzi.com.br) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58a6ff&lines=Fala+galera!+%E2%9C%8C;Eu+Sou+Thiago+Bertuzzi!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Mobile+and+Software+Architect+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Head+of+Technology++na+NESS+%F0%9F%92%BC;Muito+Prazer!++%F0%9F%98%89)](https://git.io/typing-svg)
 
 * Sou desenvolvedor .net há 15 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
