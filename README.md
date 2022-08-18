@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://www.brunobrito.net.br">
+ <a href="https://www.bertuzzi.com.br">
     <img src="https://github.com/TBertuzzi/tbertuzzi/blob/master/resources/bertuzziGit.png?raw=true" alt="Blog" />
   </a>
 </p>
