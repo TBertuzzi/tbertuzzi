@@ -1,10 +1,16 @@
 <p align="center">
  <a href="https://www.bertuzzi.com.br">
-    <img src="https://github.com/TBertuzzi/tbertuzzi/blob/master/resources/bertuzziGit.png?raw=true" alt="Blog" />
+    <img src="https://github.com/TBertuzzi/tbertuzzi/blob/master/resources/bertuzziGit.png?raw=true" width="847" height="281" alt="Blog" />
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58a6ff&lines=Fala+galera!+%E2%9C%8C;Eu+Sou+Thiago+Bertuzzi!+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Mobile+and+Software+Architect+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Head+of+Technology++na+NESS+%F0%9F%92%BC;Muito+Prazer!++%F0%9F%98%89)](https://git.io/typing-svg)
+Fala galera! ✌
+
+* Eu Sou Thiago Bertuzzi! 🧑🏻
+* Mobile and Software Architect 🧑🏻‍💻
+* Head of Technology na NESS 💼
+
+<img align="right" alt="Gif" src="https://github.com/TBertuzzi/tbertuzzi/blob/master/resources/mario.gif?raw=true" width="400" />
 
 * Sou desenvolvedor .net há 15 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
@@ -14,7 +20,7 @@
 * Um dos Organizadores do [DevShow Podcast](https://devshow.com.br/) e [Canal .Net](https://www.youtube.com/canaldotnet)
 * Organizador e Host do [It's-a Me Podcast](https://anchor.fm/thiago-bertuzzi)
 
-
+</br>
 
 <div align="center">
 
