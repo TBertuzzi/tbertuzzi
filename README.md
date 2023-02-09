@@ -12,10 +12,10 @@ Fala galera! ✌
 
 <img align="right" alt="Gif" src="https://github.com/TBertuzzi/tbertuzzi/blob/master/resources/mario.gif?raw=true" width="400" />
 
-* Sou desenvolvedor .net há 15 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
+* Sou desenvolvedor .net há 16 anos participando de projetos Desktop, Services, Web e Mobile utilizando Xamarin. 
 * [Microsoft MVP](https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi) em Developer Technologies
 * Principal Architect & Head of Technology na [NESS](https://www.ness.com.br/)
-* Contribuo para comunidade Xamarin escrevendo artigos, compartilhando códigos, palestrando e criando pacotes [Nuget](https://www.nuget.org/profiles/Bertuzzi).
+* Contribuo para comunidade Xamarin , .net e Arquitetura escrevendo artigos, parcitipando de lives/videos, compartilhando códigos, palestrando e criando pacotes [Nuget](https://www.nuget.org/profiles/Bertuzzi).
 * Um dos Organizadores dos Meetups [.NET São Paulo](https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/) , [Azure Talks](https://www.meetup.com/pt-BR/azure-talks/) e [SampaDevs](https://www.meetup.com/pt-BR/SampaDevs/)
 * Um dos Organizadores do [DevShow Podcast](https://devshow.com.br/) e [Canal .Net](https://www.youtube.com/canaldotnet)
 * Organizador e Host do [It's-a Me Podcast](https://anchor.fm/thiago-bertuzzi)
@@ -48,6 +48,10 @@ Fala galera! ✌
 
 <a href="https://medium.com/@bertuzzi" target="_blank">
 	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
+</a>
+
+<a href="https://dev.to/tbertuzzi" target="_blank">
+	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="devto">
 </a>
 
 <a href="https://anchor.fm/thiago-bertuzzi/" target="_blank">
