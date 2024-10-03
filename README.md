@@ -53,10 +53,6 @@ Fala galera! ✌
 	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="devto">
 </a>
 
-<a href="https://anchor.fm/thiago-bertuzzi/" target="_blank">
-	<img src="https://img.shields.io/badge/It's--a%20Me%20Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
-</a>
-
 <a href="https://devshow.com.br/" target="_blank">
 	<img src="https://img.shields.io/badge/-DevShow&nbsp;Podcast-37af4a?style=flat-square&labelColor=37af4a&logo=spotify&logoColor=white" alt="devshow">
 </a>
