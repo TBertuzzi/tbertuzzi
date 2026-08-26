@@ -73,11 +73,10 @@ Fala galera! ✌
 </div>
 <br/>
 
-
+<p align="center">
  <div>
   <a href="https://github.com/tbertuzzi">
 <img height="180em"  alt="tbertuzzi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tbertuzzi?cardType=level&theme=algolia&preferLogin=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbertuzzi&layout=compact&langs_count=10&theme=algolia"/>
 
 </div>
-
+</p>
