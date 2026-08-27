@@ -5,16 +5,29 @@
 </p>
 
 <p align="center">
+  <strong>Microsoft MVP · APIsec University Ambassador</strong>
+</p>
+
+<p align="center">
   Software & Security Architect focused on designing sustainable software architectures<br/>
   and integrating security throughout the software development lifecycle.
 </p>
 
 <p align="center">
+  <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi">
+    <img src="https://img.shields.io/badge/Microsoft_MVP-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
+  </a>
+  <a href="https://www.apisecuniversity.com/">
+    <img src="https://img.shields.io/badge/APIsec_University-Ambassador-111111?style=flat-square" alt="APIsec University Ambassador" />
+  </a>
+  <a href="https://www.credly.com/users/thiago-bertuzzi">
+    <img src="https://img.shields.io/badge/Credly-Credentials-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/thiago-bertuzzi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mvp.microsoft.com/pt-br/PublicProfile/5003242?fullName=Thiago%20Bertuzzi">
-    <img src="https://img.shields.io/badge/Microsoft%20MVP-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft MVP" />
   </a>
   <a href="https://dev.to/tbertuzzi">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to" />
@@ -34,13 +47,15 @@
 
 ## About
 
-I'm a **Software & Security Architect** and **Head of Technology at NESS**, currently focused on **Software Architecture, Application Security and Secure Software Development Life Cycle (SSDLC)**.
+I'm a **Software & Security Architect**, **Microsoft MVP** and **APIsec University Ambassador**, currently focused on **Software Architecture, Application Security and Secure Software Development Life Cycle (SSDLC)**.
 
 I've been working professionally with **.NET and C# since 2007**, designing, building and modernizing software across enterprise systems, web applications, APIs, backend services and complex integrations.
 
-Today, my work sits at the intersection of **software engineering, architecture and security** — helping teams make better architectural decisions, build maintainable systems and integrate security into the development process from design to production.
+Today, my work sits at the intersection of **software engineering, architecture and security** — helping teams make better architectural decisions, build maintainable systems and integrate security throughout the development lifecycle, from design to production.
 
-I'm also a **Microsoft MVP**, speaker, technical writer, open-source contributor and active member of the software development, architecture and security communities.
+I'm currently **Head of Technology at NESS**, where my work combines technical leadership, software architecture, engineering and application security.
+
+Beyond my professional work, I'm a speaker, technical writer, open-source contributor and an active member of the **.NET, Software Architecture and Application Security communities**.
 
 ## Areas of Expertise
 
@@ -50,7 +65,7 @@ System design, architectural decisions, modernization, integrations, maintainabi
 
 ### 🔐 Application Security & SSDLC
 
-Secure-by-design practices, security requirements, threat modeling, secure development processes and integrating security throughout the software development lifecycle.
+Secure-by-design practices, security requirements, threat modeling, secure development processes and integrating security throughout the Software Development Life Cycle.
 
 ### 🛡️ API Architecture & Security
 
@@ -64,7 +79,7 @@ C#, .NET, ASP.NET Core, APIs, backend services, enterprise applications and syst
 
 Architecture governance, technical decision-making, mentoring and helping engineering teams adopt sustainable architecture, engineering and security practices.
 
-## What I Work With
+## Professional Focus
 
 My current work, research and technical content are primarily centered around:
 
@@ -74,11 +89,29 @@ Other topics I frequently work with and research include:
 
 `Threat Modeling` · `OWASP` · `Secure Coding` · `DevSecOps` · `Software Modernization` · `Architecture Governance` · `Software Supply Chain Security`
 
+## Recognition & Credentials
+
+### 🏆 Microsoft MVP
+
+I'm a **Microsoft Most Valuable Professional (MVP)**, recognized for my technical contributions and involvement with the developer community.
+
+My work in the Microsoft ecosystem has been closely connected to **.NET, Software Architecture and Developer Security**.
+
+### 🔐 APIsec University Ambassador
+
+I'm an **APIsec University Ambassador**, contributing to the API Security community through knowledge sharing, technical content and advocacy around secure API development.
+
+API Security is an important part of my work within **Application Security and SSDLC**, especially around incorporating security into APIs from the earliest stages of architecture and design.
+
+### 🎓 Professional Credentials
+
+My professional certifications and digital credentials are available on my **[Credly profile](https://www.credly.com/users/thiago-bertuzzi)**.
+
 ## Background
 
 My career started with **.NET development in 2007** and evolved through software engineering, technical leadership, software architecture and application security.
 
-Throughout this journey I've worked across different types of systems, technologies and business domains:
+Throughout this journey I've worked across different technologies, systems and business domains:
 
 `Enterprise Software` · `Web` · `APIs` · `Backend Services` · `Desktop` · `ERP Integrations` · `Financial Systems` · `EDM` · `Geomarketing` · `Cloud` · `Mobile`
 
@@ -92,7 +125,7 @@ Community has been an important part of my career for many years.
 
 ### 🎥 Canal .NET
 
-I help organize and contribute to **[Canal .NET](https://www.youtube.com/canaldotnet)**, creating and promoting technical content, live sessions, discussions and events around **.NET, software architecture, cloud, security and the broader Microsoft ecosystem**.
+I help organize and contribute to **[Canal .NET](https://www.youtube.com/canaldotnet)**, creating and promoting technical content, live sessions, discussions and events around **.NET, Software Architecture, Cloud, Security and the broader Microsoft ecosystem**.
 
 ### 👥 .NET São Paulo
 
@@ -112,7 +145,7 @@ Most of the content I publish today is centered around:
 
 Open source has been part of my career for many years.
 
-I maintain and contribute to projects, libraries, samples and tools covering different areas of the .NET ecosystem and software engineering.
+I maintain and contribute to projects, libraries, samples and tools covering different areas of the .NET ecosystem, software engineering and technologies I explore.
 
 <p align="center">
   <a href="https://github.com/TBertuzzi">
